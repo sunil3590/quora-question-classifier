@@ -1,0 +1,3 @@
+# keep these files away (please build them yourself)
+.RData
+.RHistory
