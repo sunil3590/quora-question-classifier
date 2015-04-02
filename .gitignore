@@ -1,3 +1,6 @@
-# keep these files away (please build them yourself)
+# keep these folders away
+/.Rproj.user
+
+# keep these files away
 .RData
 .RHistory
