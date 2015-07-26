@@ -4,3 +4,4 @@
 # keep these files away
 .RData
 .RHistory
+.Rproj.user
