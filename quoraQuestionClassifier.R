@@ -146,7 +146,7 @@ main = function() {
   QList = c()
   classList = c()
   
-  # threshold denotes number of tweets for 
+  # threshold denotes number of questions for 
   # initial model learning
   threshold = 15
   
